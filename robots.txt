@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cgi-bin
+Sitemap: https://skyd-rome.github.io/sitemap.xml
+
